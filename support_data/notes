@@ -1,0 +1,20 @@
+#download this:  "http://api.brain-map.org/api/v2/data/query.csv?criteria=model::SectionDataSet,rma::criteria,[failed],products[abbreviation'Mouse'],treatments[name'ISH'],genes,plane_of_section,rma::options,[tabular'plane_of_sections.name as plane','genes.acronym as gene','data_sets.id assection_data_set_id'],[order'plane_of_sections.name,genes.acronym,data_sets.id']&num_rows=500000&start_row=0"
+
+# read in csv
+# make mongo db of sectionids
+
+# need grid information read in and stored properly
+# need info about location
+
+# loop over section ids
+# read in density, intensity, energy grid data.  
+# shape = (67, 41, 58)
+# data.tofile('myfile.dat')
+# fd = open('myfile.dat', 'rb')
+# read_data = numpy.fromfile(file=fd, dtype=numpy.float32).reshape(shape)
+
+# insert into new db
+
+# aggregate measures (average? std?)
+
+# 

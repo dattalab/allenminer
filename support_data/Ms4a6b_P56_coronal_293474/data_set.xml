@@ -1,0 +1,1470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section-data-set>
+  <expression>true</expression>
+  <failed>false</failed>
+  <id>293474</id>
+  <name nil="true"></name>
+  <qc-date>2009-05-02T22:35:33Z</qc-date>
+  <reference-space-id>9</reference-space-id>
+  <section-thickness>25</section-thickness>
+  <specimen-id>83797</specimen-id>
+  <storage-directory>/external/aibssan/production32/prod319/image_series_293474/</storage-directory>
+  <weight>5270</weight>
+  <genes>
+    <gene>
+      <acronym>Ms4a6b</acronym>
+      <chromosome-id type="integer">45</chromosome-id>
+      <ensembl-id nil="true"></ensembl-id>
+      <entrez-id type="integer">69774</entrez-id>
+      <homologene-id type="integer">83320</homologene-id>
+      <id type="integer">45615</id>
+      <legacy-ensembl-gene-id type="integer" nil="true"></legacy-ensembl-gene-id>
+      <name>membrane-spanning 4-domains, subfamily A, member 6B</name>
+      <organism-id type="integer">2</organism-id>
+    </gene>
+  </genes>
+  <probes>
+    <probe>
+      <fluor-color nil="true"></fluor-color>
+      <forward-sequence-id type="integer">431731</forward-sequence-id>
+      <gc-percent type="float">38.9831</gc-percent>
+      <gene-id type="integer">45615</gene-id>
+      <gi type="integer">31982629</gi>
+      <id type="integer">176582</id>
+      <label>RP_040604_02_G12</label>
+      <name>RP_040604_02_G12</name>
+      <ncbi-accession-number>NM_027209.2</ncbi-accession-number>
+      <orientation-id type="integer">2</orientation-id>
+      <predicted-sequence-id type="integer">431730</predicted-sequence-id>
+      <probe-type>RNA</probe-type>
+      <reverse-sequence-id type="integer">431732</reverse-sequence-id>
+    </probe>
+  </probes>
+  <products>
+    <product>
+      <abbreviation>Mouse</abbreviation>
+      <description>Genome-wide, high-resolution ISH data detailing gene expression throughout the adult mouse brain.</description>
+      <documentation>http://mouse.brain-map.org/static/docs</documentation>
+      <id type="integer">1</id>
+      <name>Mouse Brain</name>
+      <resource>Allen Mouse Brain Atlas</resource>
+      <tags nil="true"></tags>
+    </product>
+  </products>
+  <specimen>
+    <donor-id type="integer">3994</donor-id>
+    <external-specimen-name nil="true"></external-specimen-name>
+    <hemisphere>(none)</hemisphere>
+    <id type="integer">83797</id>
+    <name>04-0194</name>
+    <parent-id type="integer" nil="true"></parent-id>
+    <parent-x-coord type="integer" nil="true"></parent-x-coord>
+    <parent-y-coord type="integer" nil="true"></parent-y-coord>
+    <parent-z-coord type="integer" nil="true"></parent-z-coord>
+    <rna-integrity-number type="float" nil="true"></rna-integrity-number>
+    <specimen-id-path>/83797/</specimen-id-path>
+    <structure-id type="integer" nil="true"></structure-id>
+    <tissue-ph type="float" nil="true"></tissue-ph>
+    <donor>
+      <age-id type="integer">15</age-id>
+      <condition-description>none</condition-description>
+      <external-donor-name nil="true"></external-donor-name>
+      <handedness>unknown</handedness>
+      <id type="integer">3994</id>
+      <name>04-0194</name>
+      <organism-id type="integer">2</organism-id>
+      <pmi type="float">0.0</pmi>
+      <sex>M</sex>
+      <sex-full-name>Male</sex-full-name>
+      <strain>C57BL/6J</strain>
+      <transgenic-mouse-id type="integer" nil="true"></transgenic-mouse-id>
+    </donor>
+  </specimen>
+  <alignment3d>
+    <id type="integer">114768492</id>
+    <trv>0.0192381,-0.0455461,0.987944,3.61567e-16,1.09615,0.0507564,-0.961776,-0.000911044,0.0197615,745.406,1074.25,12608.8</trv>
+    <tvr>0.0207893,0.0,-1.03933,-0.0467507,0.910341,-0.000935139,1.00964,0.0419685,0.0201956,13089.2,-931.291,-1052.32</tvr>
+  </alignment3d>
+  <section-images>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011596/0100011596_181_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">7665</height>
+      <id type="integer">100502994</id>
+      <image-height type="integer">7665</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">10561</image-width>
+      <lims1-id type="integer">205405</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011596/Ms4a6b_181_0100011596_C.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">181</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">10561</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768544</id>
+        <tvs>0.953262,0.00713219,-0.00713219,0.953262,-854.558,-1442.95</tvs>
+        <tsv>1.04897,-0.00784827,0.00784827,1.04897,885.081,1520.32</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011604/0100011604_421_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">5601</height>
+      <id type="integer">101746508</id>
+      <image-height type="integer">5601</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">5953</image-width>
+      <lims1-id type="integer">205481</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011604/Ms4a6b_421_0100011604_A.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">421</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">6</tier-count>
+      <width type="integer">5953</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768602</id>
+        <tvs>0.953269,-0.00610232,0.00610232,0.953269,-3153.0,-2777.0</tvs>
+        <tsv>1.04898,0.006715,-0.006715,1.04898,3326.07,2891.84</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011592/0100011592_45_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6337</height>
+      <id type="integer">101746653</id>
+      <image-height type="integer">6337</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">8913</image-width>
+      <lims1-id type="integer">205363</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011592/Ms4a6b_45_0100011592_B.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">45</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">8913</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768510</id>
+        <tvs>0.953188,0.0138733,-0.0138733,0.953188,-1513.26,-2416.64</tvs>
+        <tsv>1.04889,-0.0152662,0.0152662,1.04889,1550.34,2557.89</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011602/0100011602_365_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6321</height>
+      <id type="integer">101740325</id>
+      <image-height type="integer">6321</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">8065</image-width>
+      <lims1-id type="integer">205463</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011602/Ms4a6b_365_0100011602_B.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">365</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">6</tier-count>
+      <width type="integer">8065</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768588</id>
+        <tvs>0.953261,-0.00732514,0.00732514,0.953261,-1951.5,-2485.82</tvs>
+        <tsv>1.04897,0.00806059,-0.00806059,1.04897,2067.1,2591.82</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011597/0100011597_197_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">7649</height>
+      <id type="integer">101747586</id>
+      <image-height type="integer">7649</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">10065</image-width>
+      <lims1-id type="integer">205411</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011597/Ms4a6b_197_0100011597_A.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">197</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">10065</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768548</id>
+        <tvs>0.953257,-0.00784778,0.00784778,0.953257,-718.096,-1266.96</tvs>
+        <tsv>1.04896,0.00863571,-0.00863571,1.04896,764.198,1322.8</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011592/0100011592_53_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6705</height>
+      <id type="integer">101747632</id>
+      <image-height type="integer">6705</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">8897</image-width>
+      <lims1-id type="integer">205365</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011592/Ms4a6b_53_0100011592_C.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">53</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">8897</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768512</id>
+        <tvs>0.953168,0.0151936,-0.0151936,0.953168,-1323.45,-2218.7</tvs>
+        <tsv>1.04887,-0.016719,0.016719,1.04887,1351.03,2349.25</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011593/0100011593_77_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">7057</height>
+      <id type="integer">101747679</id>
+      <image-height type="integer">7057</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">8945</image-width>
+      <lims1-id type="integer">205373</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011593/Ms4a6b_77_0100011593_B.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">77</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">8945</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768518</id>
+        <tvs>0.953147,-0.0164724,0.0164724,0.953147,-1253.49,-2193.28</tvs>
+        <tsv>1.04884,0.0181262,-0.0181262,1.04884,1354.47,2277.69</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011596/0100011596_165_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6705</height>
+      <id type="integer">101747875</id>
+      <image-height type="integer">6705</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">10209</image-width>
+      <lims1-id type="integer">205401</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011596/Ms4a6b_165_0100011596_A.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">165</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">10209</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768540</id>
+        <tvs>0.953194,0.0134173,-0.0134173,0.953194,-1114.24,-1804.64</tvs>
+        <tsv>1.0489,-0.0147644,0.0147644,1.0489,1142.08,1909.33</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011596/0100011596_173_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">7553</height>
+      <id type="integer">101747883</id>
+      <image-height type="integer">7553</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">10593</image-width>
+      <lims1-id type="integer">205403</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011596/Ms4a6b_173_0100011596_B.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">173</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">10593</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768542</id>
+        <tvs>0.953275,0.00519346,-0.00519346,0.953275,-812.16,-1263.61</tvs>
+        <tsv>1.04898,-0.00571489,0.00571489,1.04898,844.722,1330.14</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011595/0100011595_157_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">7233</height>
+      <id type="integer">101749003</id>
+      <image-height type="integer">7233</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">10209</image-width>
+      <lims1-id type="integer">205397</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011595/Ms4a6b_157_0100011595_D.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">157</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">10209</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768538</id>
+        <tvs>0.953151,0.016236,-0.016236,0.953151,-1180.15,-1388.04</tvs>
+        <tsv>1.04885,-0.0178661,0.0178661,1.04885,1213.0,1476.93</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011594/0100011594_101_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6593</height>
+      <id type="integer">101749361</id>
+      <image-height type="integer">6593</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">8865</image-width>
+      <lims1-id type="integer">205381</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011594/Ms4a6b_101_0100011594_A.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">101</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">8865</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768524</id>
+        <tvs>0.95271,-0.0332147,0.0332147,0.95271,-1239.96,-2946.77</tvs>
+        <tsv>1.04836,0.0365495,-0.0365495,1.04836,1407.63,3043.97</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011602/0100011602_381_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">5761</height>
+      <id type="integer">101749416</id>
+      <image-height type="integer">5761</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">7489</image-width>
+      <lims1-id type="integer">205467</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011602/Ms4a6b_381_0100011602_D.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">381</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">6</tier-count>
+      <width type="integer">7489</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768592</id>
+        <tvs>0.953287,-0.00182563,0.00182563,0.953287,-2274.23,-2456.04</tvs>
+        <tsv>1.049,0.00200892,-0.00200892,1.049,2390.6,2571.81</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011594/0100011594_117_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6529</height>
+      <id type="integer">101749454</id>
+      <image-height type="integer">6529</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">9489</image-width>
+      <lims1-id type="integer">205385</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011594/Ms4a6b_117_0100011594_C.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">117</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">9489</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768528</id>
+        <tvs>0.95314,0.0168251,-0.0168251,0.95314,-1250.99,-2070.16</tvs>
+        <tsv>1.04884,-0.0185143,0.0185143,1.04884,1273.76,2194.43</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011598/0100011598_245_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">8545</height>
+      <id type="integer">101750439</id>
+      <image-height type="integer">8545</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">10209</image-width>
+      <lims1-id type="integer">205425</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011598/Ms4a6b_245_0100011598_C.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">245</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">10209</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768560</id>
+        <tvs>0.953272,0.00570827,-0.00570827,0.953272,-952.978,-1013.46</tvs>
+        <tsv>1.04898,-0.00628139,0.00628139,1.04898,993.291,1069.09</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011604/0100011604_445_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">4561</height>
+      <id type="integer">101750745</id>
+      <image-height type="integer">4561</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">5313</image-width>
+      <lims1-id type="integer">205487</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011604/Ms4a6b_445_0100011604_D.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">445</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">6</tier-count>
+      <width type="integer">5313</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768604</id>
+        <tvs>0.953288,0.000993298,-0.000993298,0.953288,-3478.21,-3340.97</tvs>
+        <tsv>1.049,-0.00109303,0.00109303,1.049,3644.98,3508.48</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011598/0100011598_253_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">8289</height>
+      <id type="integer">101750971</id>
+      <image-height type="integer">8289</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">10081</image-width>
+      <lims1-id type="integer">205427</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011598/Ms4a6b_253_0100011598_D.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">253</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">10081</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768562</id>
+        <tvs>0.953268,0.00637427,-0.00637427,0.953268,-816.143,-1333.67</tvs>
+        <tsv>1.04898,-0.00701425,0.00701425,1.04898,846.76,1404.72</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011603/0100011603_405_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">5761</height>
+      <id type="integer">101740140</id>
+      <image-height type="integer">5761</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">5937</image-width>
+      <lims1-id type="integer">205475</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011603/Ms4a6b_405_0100011603_C.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">405</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">6</tier-count>
+      <width type="integer">5937</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768598</id>
+        <tvs>0.953288,0.000836552,-0.000836552,0.953288,-2813.63,-2651.19</tvs>
+        <tsv>1.049,-0.000920543,0.000920543,1.049,2949.06,2783.69</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011599/0100011599_269_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">8369</height>
+      <id type="integer">101740191</id>
+      <image-height type="integer">8369</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">10209</image-width>
+      <lims1-id type="integer">205433</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011599/Ms4a6b_269_0100011599_B.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">269</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">10209</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768566</id>
+        <tvs>0.953031,0.0221897,-0.0221897,0.953031,-1021.07,-1078.94</tvs>
+        <tsv>1.04872,-0.0244175,0.0244175,1.04872,1044.46,1156.43</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011591/0100011591_21_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">5777</height>
+      <id type="integer">101740238</id>
+      <image-height type="integer">5777</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">7489</image-width>
+      <lims1-id type="integer">205355</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011591/Ms4a6b_21_0100011591_C.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">21</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">6</tier-count>
+      <width type="integer">7489</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768504</id>
+        <tvs>0.953289,0.000202509,-0.000202509,0.953289,-2297.23,-2532.43</tvs>
+        <tsv>1.049,-0.000222841,0.000222841,1.049,2409.23,2657.03</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011601/0100011601_333_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">7457</height>
+      <id type="integer">101740374</id>
+      <image-height type="integer">7457</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">8897</image-width>
+      <lims1-id type="integer">205453</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011601/Ms4a6b_333_0100011601_B.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">333</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">8897</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768580</id>
+        <tvs>0.953214,-0.011985,0.011985,0.953214,-1400.79,-2036.71</tvs>
+        <tsv>1.04892,0.0131883,-0.0131883,1.04892,1496.18,2117.87</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011597/0100011597_213_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">7649</height>
+      <id type="integer">101740711</id>
+      <image-height type="integer">7649</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">10545</image-width>
+      <lims1-id type="integer">205415</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011597/Ms4a6b_213_0100011597_C.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">213</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">10545</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768552</id>
+        <tvs>0.953269,-0.00619432,0.00619432,0.953269,-668.108,-1358.88</tvs>
+        <tsv>1.04898,0.00681623,-0.00681623,1.04898,710.093,1420.88</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011594/0100011594_125_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">5761</height>
+      <id type="integer">101740732</id>
+      <image-height type="integer">5761</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">9937</image-width>
+      <lims1-id type="integer">205387</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011594/Ms4a6b_125_0100011594_D.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">125</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">9937</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768530</id>
+        <tvs>0.953174,0.0148251,-0.0148251,0.953174,-1108.17,-2192.23</tvs>
+        <tsv>1.04887,-0.0163135,0.0163135,1.04887,1126.57,2317.45</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011596/0100011596_189_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">7649</height>
+      <id type="integer">101741058</id>
+      <image-height type="integer">7649</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">10561</image-width>
+      <lims1-id type="integer">205407</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011596/Ms4a6b_189_0100011596_D.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">189</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">10561</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768546</id>
+        <tvs>0.953288,0.000901181,-0.000901181,0.953288,-739.863,-1368.62</tvs>
+        <tsv>1.049,-0.00099166,0.00099166,1.049,774.758,1436.42</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011602/0100011602_357_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6625</height>
+      <id type="integer">101741061</id>
+      <image-height type="integer">6625</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">8321</image-width>
+      <lims1-id type="integer">205461</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011602/Ms4a6b_357_0100011602_A.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">357</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">8321</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768586</id>
+        <tvs>0.953285,-0.00269216,0.00269216,0.953285,-1735.16,-2033.06</tvs>
+        <tsv>1.049,0.00296246,-0.00296246,1.049,1826.2,2127.54</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011594/0100011594_109_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6545</height>
+      <id type="integer">101741516</id>
+      <image-height type="integer">6545</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">8833</image-width>
+      <lims1-id type="integer">205383</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011594/Ms4a6b_109_0100011594_B.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">109</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">8833</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768526</id>
+        <tvs>0.953261,0.00724953,-0.00724953,0.953261,-1227.46,-2339.79</tvs>
+        <tsv>1.04897,-0.00797739,0.00797739,1.04897,1268.9,2464.16</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011595/0100011595_149_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">7313</height>
+      <id type="integer">101741790</id>
+      <image-height type="integer">7313</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">10113</image-width>
+      <lims1-id type="integer">205395</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011595/Ms4a6b_149_0100011595_C.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">149</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">10113</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768536</id>
+        <tvs>0.953281,0.00392057,-0.00392057,0.953281,-887.294,-1337.92</tvs>
+        <tsv>1.04899,-0.0043142,0.0043142,1.04899,924.992,1407.29</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011592/0100011592_37_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6433</height>
+      <id type="integer">101742041</id>
+      <image-height type="integer">6433</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">8529</image-width>
+      <lims1-id type="integer">205361</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011592/Ms4a6b_37_0100011592_A.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">37</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">8529</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768508</id>
+        <tvs>0.953285,0.00281293,-0.00281293,0.953285,-1638.49,-2487.57</tvs>
+        <tsv>1.049,-0.00309535,0.00309535,1.049,1711.07,2614.52</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011601/0100011601_325_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">7249</height>
+      <id type="integer">101742097</id>
+      <image-height type="integer">7249</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">8929</image-width>
+      <lims1-id type="integer">205451</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011601/Ms4a6b_325_0100011601_A.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">325</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">8929</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768578</id>
+        <tvs>0.953092,-0.0193571,0.0193571,0.953092,-1475.9,-1860.4</tvs>
+        <tsv>1.04878,0.0213005,-0.0213005,1.04878,1587.53,1919.72</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011592/0100011592_61_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6705</height>
+      <id type="integer">101742123</id>
+      <image-height type="integer">6705</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">8913</image-width>
+      <lims1-id type="integer">205367</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011592/Ms4a6b_61_0100011592_D.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">61</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">8913</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768514</id>
+        <tvs>0.953248,0.00884276,-0.00884276,0.953248,-1344.36,-2072.41</tvs>
+        <tsv>1.04895,-0.00973058,0.00973058,1.04895,1390.01,2186.94</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011595/0100011595_141_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6705</height>
+      <id type="integer">101742221</id>
+      <image-height type="integer">6705</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">10129</image-width>
+      <lims1-id type="integer">205393</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011595/Ms4a6b_141_0100011595_B.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">141</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">10129</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768534</id>
+        <tvs>0.953271,0.00584273,-0.00584273,0.953271,-1171.64,-1578.65</tvs>
+        <tsv>1.04898,-0.00642935,0.00642935,1.04898,1218.88,1663.5</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011591/0100011591_13_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6161</height>
+      <id type="integer">101742365</id>
+      <image-height type="integer">6161</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">6641</image-width>
+      <lims1-id type="integer">205353</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011591/Ms4a6b_13_0100011591_B.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">13</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">6</tier-count>
+      <width type="integer">6641</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768502</id>
+        <tvs>0.953289,-0.000576882,0.000576882,0.953289,-2409.32,-2503.29</tvs>
+        <tsv>1.049,0.000634802,-0.000634802,1.049,2528.96,2624.42</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011591/0100011591_5_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">5649</height>
+      <id type="integer">101743006</id>
+      <image-height type="integer">5649</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">6401</image-width>
+      <lims1-id type="integer">205351</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011591/Ms4a6b_5_0100011591_A.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">5</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">6</tier-count>
+      <width type="integer">6401</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768500</id>
+        <tvs>0.953278,0.0044773,-0.0044773,0.953278,-2694.9,-3033.03</tvs>
+        <tsv>1.04899,-0.00492682,0.00492682,1.04899,2811.97,3194.89</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011593/0100011593_85_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6705</height>
+      <id type="integer">101743381</id>
+      <image-height type="integer">6705</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">8561</image-width>
+      <lims1-id type="integer">205375</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011593/Ms4a6b_85_0100011593_C.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">85</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">8561</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768520</id>
+        <tvs>0.953227,-0.01088,0.01088,0.953227,-1658.88,-2584.85</tvs>
+        <tsv>1.04893,0.0119724,-0.0119724,1.04893,1771.0,2691.47</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011595/0100011595_133_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6705</height>
+      <id type="integer">101743726</id>
+      <image-height type="integer">6705</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">10049</image-width>
+      <lims1-id type="integer">205391</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011595/Ms4a6b_133_0100011595_A.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">133</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">10049</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768532</id>
+        <tvs>0.953286,0.00244549,-0.00244549,0.953286,-1120.51,-1807.53</tvs>
+        <tsv>1.049,-0.00269102,0.00269102,1.049,1170.55,1899.1</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011601/0100011601_341_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">7505</height>
+      <id type="integer">101743895</id>
+      <image-height type="integer">7505</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">8689</image-width>
+      <lims1-id type="integer">205455</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011601/Ms4a6b_341_0100011601_C.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">341</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">8689</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768582</id>
+        <tvs>0.953251,-0.00854226,0.00854226,0.953251,-1571.91,-1661.5</tvs>
+        <tsv>1.04896,0.00939992,-0.00939992,1.04896,1664.48,1728.07</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011599/0100011599_285_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">7681</height>
+      <id type="integer">101744615</id>
+      <image-height type="integer">7681</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">10017</image-width>
+      <lims1-id type="integer">205437</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011599/Ms4a6b_285_0100011599_D.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">285</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">10017</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768570</id>
+        <tvs>0.953275,0.00505512,-0.00505512,0.953275,-1088.47,-1613.91</tvs>
+        <tsv>1.04899,-0.00556266,0.00556266,1.04899,1132.81,1699.02</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011598/0100011598_229_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">8177</height>
+      <id type="integer">101744847</id>
+      <image-height type="integer">8177</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">10065</image-width>
+      <lims1-id type="integer">205421</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011598/Ms4a6b_229_0100011598_A.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">229</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">10065</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768556</id>
+        <tvs>0.953281,0.00377068,-0.00377068,0.953281,-782.457,-1087.69</tvs>
+        <tsv>1.04899,-0.00414926,0.00414926,1.04899,816.277,1144.23</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011593/0100011593_69_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">7457</height>
+      <id type="integer">101745089</id>
+      <image-height type="integer">7457</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">8865</image-width>
+      <lims1-id type="integer">205371</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011593/Ms4a6b_69_0100011593_A.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">69</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">8865</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768516</id>
+        <tvs>0.95326,-0.00738883,0.00738883,0.95326,-1447.3,-2113.14</tvs>
+        <tsv>1.04897,0.00813068,-0.00813068,1.04897,1535.36,2204.85</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011601/0100011601_349_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6321</height>
+      <id type="integer">101745224</id>
+      <image-height type="integer">6321</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">7665</image-width>
+      <lims1-id type="integer">205457</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011601/Ms4a6b_349_0100011601_D.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">349</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">6</tier-count>
+      <width type="integer">7665</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768584</id>
+        <tvs>0.953284,0.00290095,-0.00290095,0.953284,-1922.18,-2432.82</tvs>
+        <tsv>1.049,-0.00319221,0.00319221,1.049,2008.59,2558.15</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011602/0100011602_373_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6369</height>
+      <id type="integer">101745401</id>
+      <image-height type="integer">6369</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">7441</image-width>
+      <lims1-id type="integer">205465</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011602/Ms4a6b_373_0100011602_C.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">373</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">6</tier-count>
+      <width type="integer">7441</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768590</id>
+        <tvs>0.95328,-0.00421557,0.00421557,0.95328,-2068.1,-2307.1</tvs>
+        <tsv>1.04899,0.00463881,-0.00463881,1.04899,2180.12,2410.53</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011603/0100011603_389_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6289</height>
+      <id type="integer">101745829</id>
+      <image-height type="integer">6289</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">6849</image-width>
+      <lims1-id type="integer">205471</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011603/Ms4a6b_389_0100011603_A.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">389</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">6</tier-count>
+      <width type="integer">6849</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768594</id>
+        <tvs>0.953289,-0.000497993,0.000497993,0.953289,-2425.32,-2297.5</tvs>
+        <tsv>1.049,0.000547992,-0.000547992,1.049,2545.42,2408.75</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011603/0100011603_413_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">5809</height>
+      <id type="integer">101746316</id>
+      <image-height type="integer">5809</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">6417</image-width>
+      <lims1-id type="integer">205477</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011603/Ms4a6b_413_0100011603_D.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">413</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">6</tier-count>
+      <width type="integer">6417</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768600</id>
+        <tvs>0.953282,-0.003608,0.003608,0.953282,-2907.14,-2725.31</tvs>
+        <tsv>1.04899,0.00397024,-0.00397024,1.04899,3060.39,2847.28</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011591/0100011591_29_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">5761</height>
+      <id type="integer">100003584</id>
+      <image-height type="integer">5761</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">7665</image-width>
+      <lims1-id type="integer">205357</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011591/Ms4a6b_29_0100011591_D.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">29</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">6</tier-count>
+      <width type="integer">7665</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768506</id>
+        <tvs>0.953277,-0.00471225,0.00471225,0.953277,-2232.75,-2761.32</tvs>
+        <tsv>1.04899,0.00518537,-0.00518537,1.04899,2356.44,2885.01</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011600/0100011600_317_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">8273</height>
+      <id type="integer">100114151</id>
+      <image-height type="integer">8273</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">9505</image-width>
+      <lims1-id type="integer">205447</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011600/Ms4a6b_317_0100011600_D.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">317</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">9505</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768576</id>
+        <tvs>0.953135,-0.017113,0.017113,0.953135,-1166.73,-1646.82</tvs>
+        <tsv>1.04883,0.0188312,-0.0188312,1.04883,1254.71,1705.27</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011593/0100011593_93_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6513</height>
+      <id type="integer">100130136</id>
+      <image-height type="integer">6513</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">8689</image-width>
+      <lims1-id type="integer">205377</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011593/Ms4a6b_93_0100011593_D.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">93</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">8689</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768522</id>
+        <tvs>0.953288,-0.000813327,0.000813327,0.953288,-1523.22,-2196.69</tvs>
+        <tsv>1.049,0.000894986,-0.000894986,1.049,1599.82,2302.96</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011597/0100011597_221_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">8657</height>
+      <id type="integer">100237294</id>
+      <image-height type="integer">8657</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">10193</image-width>
+      <lims1-id type="integer">205417</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011597/Ms4a6b_221_0100011597_D.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">221</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">10193</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768554</id>
+        <tvs>0.953288,-0.00152722,0.00152722,0.953288,-965.538,-991.292</tvs>
+        <tsv>1.049,0.00168055,-0.00168055,1.049,1014.51,1038.24</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011599/0100011599_261_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">8145</height>
+      <id type="integer">100291695</id>
+      <image-height type="integer">8145</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">9905</image-width>
+      <lims1-id type="integer">205431</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011599/Ms4a6b_261_0100011599_A.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">261</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">9905</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768564</id>
+        <tvs>0.953168,0.0151568,-0.0151568,0.953168,-934.062,-1194.1</tvs>
+        <tsv>1.04887,-0.0166786,0.0166786,1.04887,959.791,1268.03</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011599/0100011599_277_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">7665</height>
+      <id type="integer">100322248</id>
+      <image-height type="integer">7665</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">10081</image-width>
+      <lims1-id type="integer">205435</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011599/Ms4a6b_277_0100011599_C.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">277</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">10081</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768568</id>
+        <tvs>0.953163,0.0155034,-0.0155034,0.953163,-944.416,-1416.58</tvs>
+        <tsv>1.04886,-0.01706,0.01706,1.04886,966.394,1501.91</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011597/0100011597_205_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">8241</height>
+      <id type="integer">100323300</id>
+      <image-height type="integer">8241</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">10561</image-width>
+      <lims1-id type="integer">205413</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011597/Ms4a6b_205_0100011597_B.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">205</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">10561</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768550</id>
+        <tvs>0.953265,-0.00673374,0.00673374,0.953265,-669.841,-1028.03</tvs>
+        <tsv>1.04897,0.00740982,-0.00740982,1.04897,710.263,1073.41</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011600/0100011600_309_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">8129</height>
+      <id type="integer">100338308</id>
+      <image-height type="integer">8129</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">9617</image-width>
+      <lims1-id type="integer">205445</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011600/Ms4a6b_309_0100011600_C.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">309</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">9617</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768574</id>
+        <tvs>0.953248,-0.00880712,0.00880712,0.953248,-1155.41,-1618.61</tvs>
+        <tsv>1.04896,0.00969136,-0.00969136,1.04896,1227.66,1686.65</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011600/0100011600_301_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">8417</height>
+      <id type="integer">100346879</id>
+      <image-height type="integer">8417</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">9313</image-width>
+      <lims1-id type="integer">205443</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011600/Ms4a6b_301_0100011600_B.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">301</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">9313</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768572</id>
+        <tvs>0.953179,-0.0144907,0.0144907,0.953179,-1046.29,-1377.63</tvs>
+        <tsv>1.04888,0.0159456,-0.0159456,1.04888,1119.39,1428.28</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011603/0100011603_397_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">5745</height>
+      <id type="integer">100350742</id>
+      <image-height type="integer">5745</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">6961</image-width>
+      <lims1-id type="integer">205473</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011603/Ms4a6b_397_0100011603_B.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">397</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">6</tier-count>
+      <width type="integer">6961</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768596</id>
+        <tvs>0.953289,0.000714455,-0.000714455,0.953289,-2560.85,-2662.97</tvs>
+        <tsv>1.049,-0.000786187,0.000786187,1.049,2684.23,2795.46</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <data-set-id type="integer">293474</data-set-id>
+      <expression-path>/external/aibssan/production32/prod6/0100011598/0100011598_237_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">8353</height>
+      <id type="integer">100689083</id>
+      <image-height type="integer">8353</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">10225</image-width>
+      <lims1-id type="integer">205423</lims1-id>
+      <path>/external/aibssan/production8/Ms4a6b_04-0194_18520/zoomify/primary/0100011598/Ms4a6b_237_0100011598_B.aff</path>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">237</section-number>
+      <specimen-id type="integer" nil="true"></specimen-id>
+      <structure-id type="integer" nil="true"></structure-id>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">10225</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">114768558</id>
+        <tvs>0.953271,0.00588063,-0.00588063,0.953271,-811.702,-1166.87</tvs>
+        <tsv>1.04898,-0.00647105,0.00647105,1.04898,843.909,1229.27</tsv>
+      </alignment2d>
+    </section-image>
+  </section-images>
+  <plane_of_section>coronal</plane_of_section>
+  <age>P56</age>
+</section-data-set>
