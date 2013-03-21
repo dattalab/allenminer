@@ -7,6 +7,7 @@ import struct
 import sys
 import urllib
 import zipfile
+import numpy as np
 
 
 # lots of code here from the allen example.
