@@ -132,8 +132,8 @@ def DownloadAnnotationVolume():
     fh = urllib.urlretrieve(API_SERVER + reffile["download_link"])
     zf = zipfile.ZipFile(fh[0])
 
-    raw = zf.read('gridAnnotation/gridAnnotation.raw')
-    arr = array.array('H',raw)
+    raw = zf.read('gridAnnotation.raw')
+    arr = array.array('I',raw)
 
     arr = np.array(arr.tolist()).reshape(58, 41, 67)
     
